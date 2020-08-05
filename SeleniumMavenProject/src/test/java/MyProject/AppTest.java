@@ -18,9 +18,14 @@ public class AppTest
         assertTrue( true );
     }
     @Test
-    public void Hello()
+    public void hello()
     {
     	System.out.println("Hello world");
+    }
+    @Test
+    public void helloWorld()
+    {
+    	System.out.println("Hello dev2");
     }
     
 }
